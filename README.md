@@ -6,7 +6,7 @@ My portfolio includes various projects focused on solving real-world problems wi
 - 🔭 I’m currently working on revitalizing my resume, LinkedIn and GitHub.  
   
 
-- 🌱 I’m currently learning what it takes to be a data scientist after having tons of fun completing my TripleTen DS bootcamp.   
+- 🌱 Learning what it takes to be a data scientist after having tons of fun completing my TripleTen DS bootcamp.   
   
 
 - ❓ Ask me about anything related to my experience working at some of the largest banks in the U.S. and, Mexican food.  
