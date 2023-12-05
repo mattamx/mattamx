@@ -18,7 +18,7 @@ My portfolio includes various projects focused on solving real-world problems wi
 <br/>  
 
 
-## My Skill Set  
+## My skill set  
 
 
 ###    
