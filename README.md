@@ -17,9 +17,6 @@ My portfolio includes various projects focused on solving real-world problems wi
 
 <br/>  
 
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mattamx&data=followers,repositories,stars,commits&theme=default)](https://github.com/mattamx/github-widgetbox)
-
 ## My skill set  
 
 
@@ -40,6 +37,7 @@ My portfolio includes various projects focused on solving real-world problems wi
 
 <br/>  
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,sql,mysql,html,css,js,json&frameworks=pytorch&libraries=pandas,tensorflow,keras&tools=jupyter&software=vscode,kaggle)](https://github.com/mattamx/github-widgetbox)
 
 ## Connect with me  
 <div align="center">
