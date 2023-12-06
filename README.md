@@ -46,7 +46,7 @@ My portfolio includes various projects focused on solving real-world problems wi
 <a href="https://linkedin.com/in/daniml/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="discordapp.com/users/hotmetalbabe" target="_blank">
+<a href="https://discordapp.com/users/hotmetalbabe" target="_blank">
 <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
 </a>
 </div>  
