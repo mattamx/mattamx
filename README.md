@@ -49,6 +49,9 @@ My portfolio includes various projects focused on solving real-world problems wi
 <a href="https://discordapp.com/users/hotmetalbabe" target="_blank">
 <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
 </a>
+<a href="https://music.apple.com/profile/hotmetalbabe" target="_blank">
+<img https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
