@@ -18,6 +18,8 @@ My portfolio includes various projects focused on solving real-world problems wi
 <br/>  
 
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mattamx&data=followers,repositories,stars,commits&theme=default)](https://github.com/mattamx/github-widgetbox)
+
 ## My skill set  
 
 
