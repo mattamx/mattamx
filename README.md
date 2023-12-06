@@ -41,16 +41,16 @@ My portfolio includes various projects focused on solving real-world problems wi
 <div align="center">
 
 <a href="mailto:codigos@proton.me" target="_blank">
-<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="30" />
 </a>
 <a href="https://linkedin.com/in/daniml/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="30" />
 </a>
 <a href="https://discordapp.com/users/hotmetalbabe" target="_blank">
-<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" height="30" />
 </a>
 <a href="https://music.apple.com/profile/hotmetalbabe" target="_blank">
-<img src=https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white alt=applemusic style="margin-bottom: 5px;" height="30"/>
 </a>
 </div>  
   
