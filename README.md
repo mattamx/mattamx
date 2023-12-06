@@ -42,6 +42,7 @@ My portfolio includes various projects focused on solving real-world problems wi
 
 <a href="mailto:codigos@proton.me" target="_blank">
 <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/daniml/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
