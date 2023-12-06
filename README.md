@@ -66,7 +66,7 @@ My portfolio includes various projects focused on solving real-world problems wi
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mattamx&color=blueviolet&&style=flat-square" align="center" height="20"/>
+<img src="https://komarev.com/ghpvc/?username=mattamx&color=blueviolet&&style=flat-square" align="center" height="25"/>
 </div>  
 
 <br />
