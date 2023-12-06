@@ -1,4 +1,5 @@
-### <div align="center">Hey there I'm Daniel Matias, a newly incubated data scientist ready to tackle meaningful work. 
+## <div align="left">Hola, soy Daniel Matias <img src='https://github.com/mattamx/mattamx/assets/107958646/094c598f-1b3d-4071-9b33-3398cb56a487' width='25'>
+### a newly incubated data scientist ready to tackle meaningful work. 
 
 My portfolio includes various projects focused on solving real-world problems with data and statistical analysis as well as machine learning algorithms, requiring both in-depth knowledge of Python and the adaptability to finding solutions via new tools or documentation. </div>  
   
