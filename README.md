@@ -71,6 +71,3 @@ My portfolio includes various projects focused on solving real-world problems wi
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
