@@ -3,7 +3,7 @@
 My portfolio includes various projects focused on solving real-world problems with data and statistical analysis as well as machine learning algorithms, requiring both in-depth knowledge of Python and the adaptability to finding solutions via new tools or documentation. </div>  
   
 
-- 🔭 I’m currently working on revitalizing my resume, LinkedIn and GitHub.  
+- 🔭 I’m currently working on revitalizing my resume, LinkedIn and GitHub. (*new profile photo coming soon*)
   
 
 - 🌱 Learning what it takes to be a data scientist after having tons of fun completing my TripleTen DS bootcamp.   
