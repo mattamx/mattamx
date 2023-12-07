@@ -10,7 +10,7 @@ My portfolio includes various projects focused on solving real-world problems wi
 - 🌱 Learning what it takes to be a data scientist after having tons of fun completing my TripleTen DS bootcamp.   
   
 
-- ❓ Ask me about anything related to my experience working at some of the largest banks in the U.S. and, Mexican food.  
+- ❓ Ask me about anything related to my experience working at some of the largest banks in the U.S., being raised in Mexico and...well...Mexican food.  
   
 
 - ⚡ Fun fact: I eat more than 10lbs of meat a week.  
