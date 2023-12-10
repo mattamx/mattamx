@@ -40,7 +40,7 @@ My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c7985
 ## Connect with me  
 <div align="center">
 
-<a href="mailto:codigos@proton.me" target="_blank">
+<a href="mailto:mattamontanar@pm.me" target="_blank">
 <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="30" />
 </a>
 <br/>  
