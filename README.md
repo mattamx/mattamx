@@ -15,33 +15,6 @@ My portfolio includes various projects focused on solving real-world problems wi
 
 - ⚡ Fun fact: I eat more than 10lbs of meat a week.  
 
-#### My 'hood
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-106.48,31.73],
-              [-107.91,30.41],
-              [-105.82,26.8],
-              [-105.28,28.11]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
 <br/>  
 
 ## My skill set  
