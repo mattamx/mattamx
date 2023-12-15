@@ -1,7 +1,7 @@
 ## <div align="left">Hola, soy Daniel Matías <img src='https://github.com/mattamx/mattamx/assets/107958646/094c598f-1b3d-4071-9b33-3398cb56a487' width='25'>
 ### a newly incubated data scientist ready to tackle meaningful work. 
 
-My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c79851d562590657d8b3f237ad97121/README.md) includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, requiring both in-depth knowledge of Python and the adaptability to finding solutions via new tools or documentation. </div>  
+My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c79851d562590657d8b3f237ad97121/README.md) includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, requiring both in-depth knowledge of query and programming languages plus the adaptability to finding solutions via new tools or documentation. </div>  
   
 
 - 🔭 I’m currently working on revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as starting the process of acquiring certifications from [DataCamp](https://www.datacamp.com).
