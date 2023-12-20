@@ -28,6 +28,7 @@ My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c7985
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://cloud.google.com/bigquery?hl=en#section-1" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="BigQuery" height="50" /></a>  
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
