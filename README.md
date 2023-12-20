@@ -37,6 +37,25 @@ My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c7985
 
 <br/>  
 
+## Certificates (in progress)
+<details open>
+<summary>TripleTen Data Science Program</summary>
+<br>
+  To be updated
+</details>
+
+<details open>
+<summary>SQL</summary>
+<br>
+  ![image](https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731)
+</details>
+
+<details open>
+<summary>Python</summary>
+<br>
+  To be updated
+</details>
+
 ## Connect with me  
 <div align="center">
 
