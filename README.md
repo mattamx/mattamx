@@ -4,7 +4,7 @@
 My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c79851d562590657d8b3f237ad97121/README.md) includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation. </div>  
   
 
-- 🔭 I’m currently working on revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications for both SQL and Python to start.
+- 🔭 I’m currently working on revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications.
   
 
 - 🌱 Learning how to think like a data scientist and reading up on mathematics for ML after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Also considering furthering my studies with an MS in Data Science.  
