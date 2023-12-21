@@ -14,16 +14,21 @@ My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c7985
   <summary>Module 1: Python and Software Engineering for Data Science</summary>
   <br>
   Introduction to Data Analysis and Statistics with a focus on Python.
+  <img src="https://github.com/mattamx/mattamx/assets/107958646/d7ca8188-d79c-4317-9b40-242a2f6c293b" align="center" height="100"/>
   </details>
   <details close>
   <summary>Module 2: Machine Learning</summary>
   <br>
   Introduces Machine Learning, covers supervised learning (including regression and classification models), and discusses how to explain Machine Learning and apply it   in practical business situations.
+  <br>
+  <img src="https://github.com/mattamx/mattamx/assets/107958646/343b3602-2b6e-4727-a6cd-71a420a6604f" align="center" height="50"/>
   </details>
   <details close>
   <summary>Module 3: Neural Networks and Advanced Techniques</summary>
   <br>
   Introduces Time Series (handling data with a time dimension), Unsupervised Learning, Natural Language Processing, and Neural Networks applied to Computer Vision and   more.
+  <br>
+  <img src="https://github.com/mattamx/mattamx/assets/107958646/5d13537b-18fd-428e-849c-00cd8b0764a0" align="center" height="50"/>
   </details>
 
 - ❓ Ask me about anything related to my experience working at some of the largest banks in the U.S., being raised in Mexico and...well...Mexican food.  
