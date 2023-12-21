@@ -31,7 +31,7 @@ My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c7985
   <img src="https://github.com/mattamx/mattamx/assets/107958646/5d13537b-18fd-428e-849c-00cd8b0764a0" align="center" height="50"/>
   </details>
 
-- ❓ Ask me about anything related to my experience working at some of the largest banks in the U.S., being raised in Mexico and...well...Mexican food.  
+- ❓ Ask me about anything related to my experience working at Goldman Sachs/J.P. Morgan or my upbringing in northern Mexico.  
   
 
 - ⚡ Fun fact: I eat more than 10lbs of meat a week.  
