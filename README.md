@@ -65,8 +65,8 @@ My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c7985
 <details close>
 <summary>TripleTen Data Science Program</summary>
 <br>
-<img src="https://github.com/mattamx/mattamx/assets/107958646/bf105cc2-1919-4622-9ba1-937a12e52826" align="center" height="400"/>
-<img src="https://github.com/mattamx/mattamx/assets/107958646/1291b411-02d9-476a-b8ce-4d2204fbdffb" align="center" height="400"/>
+<img src="https://github.com/mattamx/mattamx/assets/107958646/bf105cc2-1919-4622-9ba1-937a12e52826" align="center" height="500"/>
+<img src="https://github.com/mattamx/mattamx/assets/107958646/1291b411-02d9-476a-b8ce-4d2204fbdffb" align="center" height="500"/>
 </details>
 
 <details close>
