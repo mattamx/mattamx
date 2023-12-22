@@ -7,7 +7,7 @@ My [portfolio](https://github.com/mattamx/TripleTen_projects/blob/73c9f7704c7985
 - 🔭 I’m currently working on revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications.
   
 
-- 🌱 Learning how to think like a data scientist and reading up on mathematics for machine learning after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Also considering furthering my studies with an MS in Data Science.  
+- 🌱 Enjoying the process of thinking like a data scientist and reading up on mathematics for machine learning after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Also contemplating furthering my studies with an MS in Data Science.  
 
   #### TripleTen Data Science Program - Course Structure
   <details close>
