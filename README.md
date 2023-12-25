@@ -9,10 +9,8 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 
 `Fun fact`: I eat more than 15lbs of meat a week.  
 
-<p align="left">
-	<a href="https://github.com/mattamx/Projects">
-      		<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-    	</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&theme=ambient_gradient)](https://github.com/mattamx/Projects)
+
 <br/>  
 
 ## Skills
