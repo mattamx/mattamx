@@ -9,7 +9,7 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 
 `Fun fact`: I eat more than 15lbs of meat a week.  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&theme=ambient_gradient)](https://github.com/mattamx/Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&theme=ambient_gradient)](https://github.com/mattamx/Projects) 
 
 <br/>  
 
