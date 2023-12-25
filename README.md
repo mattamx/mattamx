@@ -1,45 +1,15 @@
-## <div align="left">Hola, soy Daniel Matías <img src='https://github.com/mattamx/mattamx/assets/107958646/094c598f-1b3d-4071-9b33-3398cb56a487' width='25'>
-### a newly incubated data scientist ready to tackle meaningful work. 
+## <div align="left">Hola, soy Daniel Matías <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="35" height="35" >
+#### After years of working in banking, I'm pursuing what I really want to do and pivoting into the world of data science. Truly looking forward to the boundless amounts of learning. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 My [portfolio](https://github.com/mattamx/Projects/blob/45203410e1ea14469b7593beeef93854df92bb5c/README.md) includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation. </div>  
-  
 
-- 🔭 I’m currently working on revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications.
-  
+I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications.
 
-- 🌱 Enjoying the process of thinking like a data scientist and reading up on mathematics for machine learning after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Also contemplating furthering my studies with an MS in Data Science.  
+Really enjoying the process of thinking like a data scientist and reading up on mathematics for machine learning after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Also contemplating furthering my studies with an MS in Data Science, stay tuned.  
 
-  #### TripleTen Data Science Program - Course Structure
-  <details close>
-  <summary>Module 1: Python and Software Engineering for Data Science</summary>
-  <br>
-  Introduction to Data Analysis and Statistics with a focus on Python.
-  <img src="https://github.com/mattamx/mattamx/assets/107958646/d7ca8188-d79c-4317-9b40-242a2f6c293b" align="center" height="100"/>
-  </details>
-  <details close>
-  <summary>Module 2: Machine Learning</summary>
-  <br>
-  Introduces Machine Learning, covers supervised learning (including regression and classification models), and discusses how to explain Machine Learning and apply it   in practical business situations.
-  <br>
-  <img src="https://github.com/mattamx/mattamx/assets/107958646/343b3602-2b6e-4727-a6cd-71a420a6604f" align="center" height="50"/>
-  </details>
-  <details close>
-  <summary>Module 3: Neural Networks and Advanced Techniques</summary>
-  <br>
-  Introduces Time Series (handling data with a time dimension), Unsupervised Learning, Natural Language Processing, and Neural Networks applied to Computer Vision and   more.
-  <br>
-  <img src="https://github.com/mattamx/mattamx/assets/107958646/5d13537b-18fd-428e-849c-00cd8b0764a0" align="center" height="50"/>
-  </details>
-
-- ❓ Ask me about anything related to my experience working at Goldman Sachs / J.P. Morgan or my upbringing in northern Mexico.  
-  
-
-- ⚡ Fun fact: I eat more than 10lbs of meat a week.  
-
+`Fun fact`: I eat more than 15lbs of meat a week.  
 <br/>  
-
-## My skill set  
-
+## Skills
 
 ###    
 <div align="center">  
@@ -60,6 +30,39 @@ My [portfolio](https://github.com/mattamx/Projects/blob/45203410e1ea14469b7593be
 </div>  
 
 <br/>  
+
+## Work & Education
+- **JPMorgan Chase & Co**
+  - Associate/Vice President (2020-present)
+- **Goldman Sachs**
+  - Associate (2015-2020)
+- **Moody's Investors Service**
+  - Financial Data Analyst (2014-2015)
+- **University of Texas at El Paso**
+  - Bachelor of Business Administration - Financial Analysis and Valuation (2010-2013)
+- **TripleTen Data Science Program** (2023)
+
+  Course Structure:
+  <details close>
+  <summary>Module 1: Python and Software Engineering for Data Science</summary>
+  <br>
+  Introduction to Data Analysis and Statistics with a focus on Python.
+  <img src="https://github.com/mattamx/mattamx/assets/107958646/d7ca8188-d79c-4317-9b40-242a2f6c293b" align="center" height="100"/>
+  </details>
+  <details close>
+  <summary>Module 2: Machine Learning</summary>
+  <br>
+  Introduces Machine Learning, covers supervised learning (including regression and classification models), and discusses how to explain Machine Learning and apply it   in practical business situations.
+  <br>
+  <img src="https://github.com/mattamx/mattamx/assets/107958646/343b3602-2b6e-4727-a6cd-71a420a6604f" align="center" height="50"/>
+  </details>
+  <details close>
+  <summary>Module 3: Neural Networks and Advanced Techniques</summary>
+  <br>
+  Introduces Time Series (handling data with a time dimension), Unsupervised Learning, Natural Language Processing, and Neural Networks applied to Computer Vision and   more.
+  <br>
+  <img src="https://github.com/mattamx/mattamx/assets/107958646/5d13537b-18fd-428e-849c-00cd8b0764a0" align="center" height="50"/>
+  </details>
 
 ## Certificates (in progress)
 <details close>
