@@ -11,7 +11,7 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 
 <p align="left">
 	<a href="https://github.com/mattamx/Projects">
-      		<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
+      		<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
     	</a>
 <br/>  
 
