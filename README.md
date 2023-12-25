@@ -8,6 +8,9 @@ I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile phot
 Really enjoying the process of thinking like a data scientist and reading up on mathematics for machine learning after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Contemplating furthering my studies with an MS in Data Science, stay tuned.  
 
 `Fun fact`: I eat more than 15lbs of meat a week.  
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
 <br/>  
 ## Skills
 
