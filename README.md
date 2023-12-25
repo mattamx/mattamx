@@ -1,7 +1,7 @@
 ## <div align="left">Hola, soy Daniel Matías <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="35" height="35" >
 #### After years of working in banking, I'm pursuing what I really want to do and pivoting into the world of data science. Truly looking forward to the boundless amounts of learning. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
-My [portfolio](README.md) includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation. </div>  
+My [portfolio](Projects/README.md) includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation. </div>  
 
 I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications.
 
