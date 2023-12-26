@@ -3,7 +3,7 @@
 
 My portfolio includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation. </div>  
 
-I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications.
+I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. My personal website in the works. 🚧
 
 Really enjoying the process of thinking like a data scientist and reading up on mathematics for machine learning after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Contemplating furthering my studies with an MS in Data Science, stay tuned.  
 
