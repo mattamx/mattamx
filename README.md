@@ -46,6 +46,7 @@ Really enjoying the process of thinking like a data scientist and reading up on 
   - Financial Data Analyst (2014-2015)
 - **University of Texas at El Paso**
   - Bachelor of Business Administration - Financial Analysis and Valuation (2010-2013)
+    - Spent 2013-2014 back in school to get another Bachelor's in Computer Information Systems *(moved to NYC halfway through that)*
 - **TripleTen Data Science Program** (2023)
 
   Course Structure:
