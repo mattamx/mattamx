@@ -71,6 +71,8 @@ Really enjoying the process of thinking like a data scientist and reading up on 
   </details>
 
 ## Certificates (in progress)
+<kbd><img align="center" width="250px" hspace="0" src="https://github.com/mattamx/mattamx/assets/107958646/39f47b75-0629-4b33-a5a3-8a45c0f56cbe"></kbd>
+
 <details close>
 <summary>TripleTen Data Science Program</summary>
 <br>
@@ -89,6 +91,7 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <br>
   To be updated
 </details>
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -121,4 +124,4 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <img src="https://komarev.com/ghpvc/?username=mattamx&color=blueviolet&&style=flat-square" align="center" height="25"/>
 </div>  
 
-<br />
+<br/>
