@@ -1,17 +1,18 @@
 ## <div align="left">Hola, soy Daniel Matías <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="35" height="35" >
 #### After years of working in banking, I'm pursuing what I really want to do and pivoting into the world of data science. Truly looking forward to the immense amounts of learning. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
-My portfolio includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation. </div>  
+<img align="right" width="250px" hspace="0" src="https://github.com/mattamx/mattamx/assets/107958646/39f47b75-0629-4b33-a5a3-8a45c0f56cbe">
 
-I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. My personal website in the works. 🚧
+My portfolio includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation.
+
+I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website in the works. 🚧
 
 Really enjoying the process of thinking like a data scientist and reading up on mathematics for machine learning after having tons of fun completing my [TripleTen Data Science](https://tripleten.com/data-science/#first) bootcamp. Contemplating furthering my studies with an MS in Data Science, stay tuned.  
 
 `Fun fact`: I eat more than 15lbs of meat a week.  
-
+  
+## Portfolio 
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd> 
-
-<br/>  
 
 ## Skills
 
