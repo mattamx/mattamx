@@ -76,14 +76,14 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <details close>
 <summary>TripleTen Data Science Program</summary>
 <br>
-<img src="https://github.com/mattamx/mattamx/assets/107958646/bf105cc2-1919-4622-9ba1-937a12e52826" align="center" height="500"/>
-<img src="https://github.com/mattamx/mattamx/assets/107958646/1291b411-02d9-476a-b8ce-4d2204fbdffb" align="center" height="500"/>
+<img src="https://github.com/mattamx/mattamx/assets/107958646/bf105cc2-1919-4622-9ba1-937a12e52826" align="center" height="350"/>
+<img src="https://github.com/mattamx/mattamx/assets/107958646/1291b411-02d9-476a-b8ce-4d2204fbdffb" align="center" height="350"/>
 </details>
 
 <details close>
 <summary>SQL</summary>
 <br>
-<img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="400"/>
+<img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="350"/>
 </details>
 
 <details close>
