@@ -90,7 +90,7 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <details close>
 <summary>Python</summary>
 <br>
-  To be updated
+  [Data Scientist Professional Certification from DataCamp]
 </details>
 <br/>  
 
