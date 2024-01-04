@@ -18,30 +18,30 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 
 ###    
 <div align="left">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="70" /></a> 
-<a href="https://numpy.org/doc/stable/index.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="70" /></a> 
-<a href="https://scikit-learn.org/stable/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="70" /></a>  
-<a href="https://docs.scipy.org/doc/scipy/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" height="70" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="70" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="70" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="70" /></a> 
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="70" /></a> 
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" height="70" /></a> 
-<a href="https://plotly.com/python/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5997976?s=160&v=4" alt="Plotly" height="70" /></a> 
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="60" /></a> 
+<a href="https://numpy.org/doc/stable/index.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="60" /></a> 
+<a href="https://scikit-learn.org/stable/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="60" /></a>  
+<a href="https://docs.scipy.org/doc/scipy/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" height="60" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="60" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="60" /></a> 
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="60" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="60" /></a> 
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" height="60" /></a> 
+<a href="https://plotly.com/python/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5997976?s=160&v=4" alt="Plotly" height="60" /></a> 
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="60" /></a>  
     <br/>  
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/b7c067c6-e0ae-4bd1-96b6-53c16bcb8e58" alt="PySpark" height="70" /></a> 
-<a href="https://dataengineering.wiki/Tools/SQL" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/7502d57f-b9c8-4971-a2dc-42c05ee240c4" alt="SQL" height="70" /></a>  
-<a href="https://cloud.google.com/bigquery?hl=en#section-1" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="BigQuery" height="70" /></a> 
-<a href="https://jupyter.org" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/93b27b87-b6e2-4b7c-8daf-08f3e5d79737" alt="Jupyter Notebook" height="70" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" height="70" /></a>  
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/b7c067c6-e0ae-4bd1-96b6-53c16bcb8e58" alt="PySpark" height="60" /></a> 
+<a href="https://dataengineering.wiki/Tools/SQL" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/7502d57f-b9c8-4971-a2dc-42c05ee240c4" alt="SQL" height="60" /></a>  
+<a href="https://cloud.google.com/bigquery?hl=en#section-1" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="BigQuery" height="60" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/93b27b87-b6e2-4b7c-8daf-08f3e5d79737" alt="Jupyter Notebook" height="60" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" height="60" /></a>  
   <br/>  
-<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="70" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="70" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /></a>  
+<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="60" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="60" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
 </div>  
 
 <br/>  
