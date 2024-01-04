@@ -36,7 +36,6 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <a href="https://cloud.google.com/bigquery?hl=en#section-1" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="BigQuery" height="60" /></a> 
 <a href="https://jupyter.org" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/93b27b87-b6e2-4b7c-8daf-08f3e5d79737" alt="Jupyter Notebook" height="60" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" height="60" /></a>  
-  <br/>  
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="60" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="60" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>  
