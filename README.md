@@ -85,6 +85,9 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <summary>SQL</summary>
 <br>
 <img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="350"/>
+
+[SQL for Data Analysis from UDACITY]
+
 </details>
 
 <details close>
