@@ -26,6 +26,7 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="70" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="70" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="70" /></a> 
+      <br/>  
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="70" /></a> 
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" height="70" /></a> 
 <a href="https://plotly.com/python/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5997976?s=160&v=4" alt="Plotly" height="70" /></a> 
