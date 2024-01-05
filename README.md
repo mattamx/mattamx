@@ -12,7 +12,7 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 ## Portfolio 
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd> 
 
-## Skills
+## Skills & Tools
 
 ###    
 <div align="left">  
