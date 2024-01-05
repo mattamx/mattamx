@@ -103,6 +103,13 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 </details>
 <br/>  
 
+<details close>
+<summary>Other</summary>
+<br>
+  [Microsoft Certified: Azure Data Fundamentals]
+</details>
+<br/>  
+
 ## Connect with me  
 <div align="center">
 
