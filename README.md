@@ -101,7 +101,6 @@ Really enjoying the process of thinking like a data scientist and reading up on 
 <br>
   [Data Scientist Professional Certification from DataCamp]
 </details>
-<br/>  
 
 <details close>
 <summary>Other</summary>
