@@ -44,7 +44,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <br/>  
 
 ## Work & Education
-#### Work
+### Work
 - **JPMorgan Chase & Co**
   - Associate/Vice President (2020-present)
 - **Goldman Sachs**
@@ -52,10 +52,10 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 - **Moody's Investors Service**
   - Financial Data Analyst (2014-2015)
 
-#### Education
+### Education
 - **TripleTen Data Science Program** (2023)
   - Certificate received December 2023
-  ##### Course Structure:
+  #### Course Structure:
   <details close>
   <summary>Module 1: Python and Software Engineering for Data Science</summary>
   <br>
