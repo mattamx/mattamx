@@ -10,7 +10,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 `Fun fact`: I eat more than 15lbs of meat a week.  
   
 ## Portfolio 
-<kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >]() </kbd> 
+<kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd> 
 
 ## Skills & Tools
 
