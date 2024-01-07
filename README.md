@@ -50,12 +50,15 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   - Associate (2015-2020)
 - **Moody's Investors Service**
   - Financial Data Analyst (2014-2015)
+- **TripleTen Data Science Program** (2023)
+  - Certificate received December 2023
 - **University of Texas at El Paso**
   - Bachelor of Business Administration - Financial Analysis and Valuation (2010-2013)
     - Spent 2013-2014 back in school to get another Bachelor's in Computer Information Systems *(moved to NYC halfway through that)*
-- **TripleTen Data Science Program** (2023)
-
-  Course Structure:
+- **Texas Tech University**
+  - Went to TTU to play football for Mike Leach (pre-med student). Made the team, switched to Computer Science then shortly decided to head back to El Paso. (2009-2010)
+ 
+  TripleTen DS Program Course Structure:
   <details close>
   <summary>Module 1: Python and Software Engineering for Data Science</summary>
   <br>
