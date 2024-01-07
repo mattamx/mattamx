@@ -91,11 +91,8 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <summary>SQL</summary>
 <br>
 <img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="350"/>
-
 [SQL for Data Analysis from UDACITY]
-
 [IBM Data Engineering Professional Certificate]
-
 </details>
 
 <details close>
@@ -108,9 +105,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <summary>Other</summary>
 <br>
   [Microsoft Certified: Azure Data Fundamentals]
-
   [Google Data Analytics Professional Certificate]
-
   [Mathematics for Machine Learning and Data Science Specialization]
 </details>
 <br/>  
