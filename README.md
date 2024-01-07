@@ -44,21 +44,18 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <br/>  
 
 ## Work & Education
+#### Work
 - **JPMorgan Chase & Co**
   - Associate/Vice President (2020-present)
 - **Goldman Sachs**
   - Associate (2015-2020)
 - **Moody's Investors Service**
   - Financial Data Analyst (2014-2015)
+
+#### Education
 - **TripleTen Data Science Program** (2023)
   - Certificate received December 2023
-- **University of Texas at El Paso**
-  - Bachelor of Business Administration - Financial Analysis and Valuation (2010-2013)
-    - Spent 2013-2014 back in school to get another Bachelor's in Computer Information Systems *(moved to NYC halfway through that)*
-- **Texas Tech University**
-  - Went to TTU to play football for Mike Leach (pre-med student). Made the team, switched to Computer Science then shortly decided to head back to El Paso. (2009-2010)
- 
-  TripleTen DS Program Course Structure:
+  ##### Course Structure:
   <details close>
   <summary>Module 1: Python and Software Engineering for Data Science</summary>
   <br>
@@ -79,6 +76,11 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   <br>
   <img src="https://github.com/mattamx/mattamx/assets/107958646/5d13537b-18fd-428e-849c-00cd8b0764a0" align="center" height="50"/>
   </details>
+- **University of Texas at El Paso**
+  - Bachelor of Business Administration - Financial Analysis and Valuation (2010-2013)
+    - Spent 2013-2014 back in school to get another Bachelor's in Computer Information Systems *(moved to NYC halfway through that)*
+- **Texas Tech University**
+  - Went to TTU to play football for Mike Leach (pre-med student). Made the team, switched to Computer Science then shortly decided to head back to El Paso (2009-2010)
 
 ## Certificates (in progress)
 <kbd><img align="center" width="250px" hspace="0" src="https://github.com/mattamx/mattamx/assets/107958646/39f47b75-0629-4b33-a5a3-8a45c0f56cbe"></kbd>
