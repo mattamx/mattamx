@@ -121,7 +121,6 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   [Mathematics for Machine Learning and Data Science Specialization - Coursera]
   
 </details>
-<br/> 
 
 <details close>
 <summary>Other</summary>
