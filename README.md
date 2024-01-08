@@ -97,9 +97,9 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <br>
 <img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="350"/>
   
-[SQL for Data Analysis from UDACITY]
+[SQL for Data Analysis - UDACITY]
 
-[IBM Data Engineering Professional Certificate]
+[IBM Data Engineering Professional Certificate - Coursera]
 
 </details>
 
@@ -107,9 +107,21 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <summary>Python</summary>
 <br>
   
-  [Data Scientist Professional Certification from DataCamp]
+  [Data Scientist Professional Certification - DataCamp]
   
 </details>
+
+<details close>
+<summary>Machine Learning</summary>
+<br>
+  
+  [Machine Learning Engineer Learning Path - Google Cloud Skills Boost]
+  
+  
+  [Mathematics for Machine Learning and Data Science Specialization - Coursera]
+  
+</details>
+<br/> 
 
 <details close>
 <summary>Other</summary>
@@ -117,9 +129,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   
   [Microsoft Certified: Azure Data Fundamentals]
   
-  [Google Data Analytics Professional Certificate]
-  
-  [Mathematics for Machine Learning and Data Science Specialization]
+  [Google Data Analytics Professional Certificate - Coursera]
   
 </details>
 <br/>  
