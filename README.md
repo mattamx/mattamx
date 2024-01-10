@@ -46,7 +46,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 ## Work & Education
 ### Work
 - **JPMorgan Chase & Co**
-  - Associate/Vice President (2020-present)
+  - Associate/Vice President (2020-2024)
 - **Goldman Sachs**
   - Associate (2015-2020)
 - **Moody's Investors Service**
