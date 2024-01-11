@@ -12,7 +12,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 - Avid Real Madrid and Las Vegas Raiders fan.
 - Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
 - Usually losing track of time when studying anything related to data science.
-- I can eat 16 eggs in one sitting.  
+- I can eat more than 16 eggs in one sitting.  
   
 ## Portfolio
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
