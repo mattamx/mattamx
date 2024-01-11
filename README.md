@@ -7,7 +7,7 @@ I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile phot
 
 Having completed my [TripleTen Data Science](https://tripleten.com/data-science/#first) program this past December, I've been putting in the work of building myself a roadmap to be able to achieve my number one goal of 2024, to be able to call myself a full-fledged data scientist and give back to communities through my work. At the same time, I'm contemplating furthering my studies with an MS in Data Science from UC Berkeley, stay tuned.  
 
-`A little about me`
+**`A little about me`**
 - Born in El Paso, Texas but raised most of my life in Ciudad Juárez, Chihuahua. *God I miss a good menudo or carne asada*.
 - Avid Real Madrid and Las Vegas Raiders fan.
 - Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
@@ -103,6 +103,8 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="350"/>
   
 [SQL for Data Analysis - UDACITY]
+
+[SQL Associate Certification - DataCamp]
 
 [Microsoft Certified: Azure Data Fundamentals]
 
