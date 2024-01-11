@@ -7,7 +7,12 @@ I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile phot
 
 Having completed my [TripleTen Data Science](https://tripleten.com/data-science/#first) program this past December, I've been putting in the work of building myself a roadmap to be able to achieve my number one goal of 2024, to be able to call myself a full-fledged data scientist and give back to communities through my work. At the same time, I'm contemplating furthering my studies with an MS in Data Science from UC Berkeley, stay tuned.  
 
-`Fun fact`: I eat more than 15lbs of meat a week.  
+`About me`
+- Born in El Paso, Texas but raised most of my life in Ciudad Juárez, Chihuahua. *God I miss a good menudo or carne asada*.
+- Avid Real Madrid fan.
+- Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
+- Usually losing track of time when studying anything related to data science.
+- I can eat 16 eggs in one sitting.  
   
 ## Portfolio
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
@@ -99,6 +104,8 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   
 [SQL for Data Analysis - UDACITY]
 
+[Microsoft Certified: Azure Data Fundamentals]
+
 [IBM Data Engineering Professional Certificate - Coursera]
 
 </details>
@@ -125,8 +132,6 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <details close>
 <summary>Other</summary>
 <br>
-  
-  [Microsoft Certified: Azure Data Fundamentals]
   
   [Google Data Analytics Professional Certificate - Coursera]
   
