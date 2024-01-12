@@ -153,7 +153,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 </details>
 <br/>  
 
-## Playlist 
+## Music 
  
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=fuck.sleep&hide_title=1">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=fuck.sleep&hide_title=1" alt="Data Card for Spotify">
