@@ -13,7 +13,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 - Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
 - Usually losing track of time when studying anything related to data science.
 - I can eat more than 16 eggs in one sitting.
-<br/>
+
 **`Current workflow`**
 - Chopping away at the Data Scientist - Python cert. from DataCamp (halfway through)
 - Adding SQL projects to repo. this weekend 1/13-1/14
