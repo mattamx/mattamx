@@ -9,7 +9,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 
 **`A little about me`**
 - Born in El Paso, Texas but raised most of my life in Ciudad Juárez, Chihuahua. *God I miss a good menudo or carne asada*.
-- Avid Real Madrid and Las Vegas Raiders fan with a soft-spot for New Zealand Rugby *(since everyone thinks I am pacific islander)*
+- Avid Real Madrid and Las Vegas Raiders fan with a soft-spot for New Zealand Rugby *(since everyone thinks I am pacific islander)*.
 - Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
 - Usually losing track of time when studying anything related to data science.
 - I can eat more than 16 eggs in one sitting.
