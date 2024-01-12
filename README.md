@@ -12,7 +12,20 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 - Avid Real Madrid and Las Vegas Raiders fan.
 - Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
 - Usually losing track of time when studying anything related to data science.
-- I can eat more than 16 eggs in one sitting.  
+- I can eat more than 16 eggs in one sitting.
+<br/> 
+<div align="left">
+<kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
+<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="30" /> </kbd>
+</a> 
+<kbd> <a href="https://linkedin.com/in/daniml/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="30" /> </kbd>
+</a>
+<kbd> <a href="https://discordapp.com/users/hotmetalbabe" target="_blank">
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" height="30" /> </kbd>
+</a>
+</div>  
+<br/> 
   
 ## Portfolio
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
@@ -46,7 +59,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
 </div>  
 
-<br/>  
+<br/>
 
 ## Work & Education
 ### Work
@@ -140,25 +153,11 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 </details>
 <br/>  
 
-## Connect with me  
-<div align="center">
-
-<a href="mailto:mattamontanar@pm.me" target="_blank">
-<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="30" />
+## Playlist 
+ 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=fuck.sleep&hide_title=1">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=fuck.sleep&hide_title=1" alt="Data Card for Spotify">
 </a>
-<br/>  
-<a href="https://linkedin.com/in/daniml/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="30" />
-</a>
-<br/>  
-<a href="https://discordapp.com/users/hotmetalbabe" target="_blank">
-<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" height="30" />
-</a>
-</div>  
-  
-
-<br/>  
-
 
 <br/>  
 
