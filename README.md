@@ -22,7 +22,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <img width="215" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/b55421c4-0a72-4548-b6e7-bf8b1624821c">
 
 <div align="left">
-<img width="820" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/77413d88-08eb-49ea-a3a3-f9322b4c015c" style="margin-bottom: 10px">
+<img width="620" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/77413d88-08eb-49ea-a3a3-f9322b4c015c" style="margin-bottom: 10px">
 </div> </br>
 
 
