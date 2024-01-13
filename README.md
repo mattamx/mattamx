@@ -17,15 +17,15 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   
   <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Usually losing track of time when studying anything related to data science.
   
-  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> I can eat more than 16 eggs in one sitting.
-
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> I can eat more than 16 eggs in one sitting. </br>
+  
 <img width="215" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/b55421c4-0a72-4548-b6e7-bf8b1624821c">
 
-  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Chopping away at the Data Scientist - Python cert. from DataCamp (halfway through)
-  
-  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Adding SQL projects to repo. this weekend 1/13-1/14
+<div align="left">
+<img width="820" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/77413d88-08eb-49ea-a3a3-f9322b4c015c">
+</div> </br>
 
-  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Starting SQL Associate cert. from DataCamp on 1/14
+<img width="180" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/e55b7ee9-ebbf-4087-92ee-55082b83538a">
 
 <div align="left">
 <kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
