@@ -29,13 +29,13 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 
 <div align="left">
 <kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
-<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="30" /> </kbd>
+<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="25" /> </kbd>
 </a> 
 <kbd> <a href="https://linkedin.com/in/daniml/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="30" /> </kbd>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="25" /> </kbd>
 </a>
 <kbd> <a href="https://discordapp.com/users/hotmetalbabe" target="_blank">
-<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" height="30" /> </kbd>
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" height="25" /> </kbd>
 </a>
 </div>  
 <br/> 
