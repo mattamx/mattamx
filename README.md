@@ -7,17 +7,25 @@ I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile phot
 
 Having completed my [TripleTen Data Science](https://tripleten.com/data-science/#first) program this past December, I've been putting in the work of building myself a roadmap to be able to achieve my number one goal of 2024, to be able to call myself a full-fledged data scientist and give back to communities through my work. At the same time, I'm contemplating furthering my studies with an MS in Data Science from UC Berkeley, stay tuned.  
 
-**`A little about me`**
-- Born in El Paso, Texas but raised most of my life in Ciudad Juárez, Chihuahua. *God I miss a good menudo or carne asada*.
-- Avid Real Madrid and Las Vegas Raiders fan with a soft-spot for New Zealand Rugby.
-- Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
-- Usually losing track of time when studying anything related to data science.
-- I can eat more than 16 eggs in one sitting.
+<img width="217" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/b01d856d-9500-43db-a6d2-4b3fb160b38b">
 
-**`Current workflow`**
-- Chopping away at the Data Scientist - Python cert. from DataCamp (halfway through)
-- Adding SQL projects to repo. this weekend 1/13-1/14
-- Starting SQL Associate cert. from DataCamp on 1/14
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Born in El Paso, Texas but raised most of my life in Ciudad Juárez, Chihuahua. *God I miss a good menudo or carne asada*.
+  
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Avid Real Madrid and Las Vegas Raiders fan with a soft-spot for New Zealand Rugby.
+  
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Suffered a gnarly spinal injury in 2022 which made me fully re-evaluate my life...and here we are.
+  
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Usually losing track of time when studying anything related to data science.
+  
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> I can eat more than 16 eggs in one sitting.
+
+<img width="215" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/b55421c4-0a72-4548-b6e7-bf8b1624821c">
+
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Chopping away at the Data Scientist - Python cert. from DataCamp (halfway through)
+  
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Adding SQL projects to repo. this weekend 1/13-1/14
+
+  <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Starting SQL Associate cert. from DataCamp on 1/14
 
 <div align="left">
 <kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
