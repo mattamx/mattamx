@@ -18,7 +18,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> Usually losing track of time when studying anything related to data science.
   
   <img width="8" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/c83e12a2-d6dd-4909-91a6-546335822a16"> I can eat more than 16 eggs in one sitting. </br>
-  
+  </br>
 <img width="215" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/b55421c4-0a72-4548-b6e7-bf8b1624821c">
 
 <div align="left">
@@ -27,7 +27,7 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 
 
 <img width="180" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/e55b7ee9-ebbf-4087-92ee-55082b83538a" style="margin-bottom: 10px">
-
+</br>
 <div align="left">
 <kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
 <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="25" /> </kbd>
