@@ -21,7 +21,6 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" height="25" /> </kbd>
 </a>
 </div>  
-<br/> 
   
 ## Portfolio
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
