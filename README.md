@@ -8,6 +8,7 @@ I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile phot
 Having completed my [TripleTen Data Science](https://tripleten.com/data-science/#first) program this past December, I've been putting in the work of building myself a roadmap to be able to achieve my number one goal of 2024, to be able to call myself a full-fledged data scientist and give back to communities through my work. At the same time, I'm contemplating furthering my studies with an MS in Data Science from UC Berkeley, stay tuned.  
 
 <kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/13953906/About.me.pdf) </kbd>
+<br/> 
 
 <div align="left">
 <kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
