@@ -58,17 +58,15 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 <br/>
 
 ## Work & Education
-<img width="120" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/2ab190dc-2166-4f92-b2b4-baf1020c1571">
+### Work
+- **JPMorgan Chase & Co** (2020-2024)
+  - Associate/Vice President 
+- **Goldman Sachs** (2015-2020)
+  - Associate 
+- **Moody's Investors Service** (2014-2015)
+  - Financial Data Analyst 
 
-- **JPMorgan Chase & Co**
-  - Associate/Vice President (2020-2024)
-- **Goldman Sachs**
-  - Associate (2015-2020)
-- **Moody's Investors Service**
-  - Financial Data Analyst (2014-2015)
-
-<img width="163" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/91a197cb-e4d0-4014-8f2f-ba93843c7527">
-
+### Education
 - **TripleTen Data Science Program** (2023)
   - Certificate received December 2023
   #### Course Structure:
@@ -92,11 +90,11 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
   <br>
   <img src="https://github.com/mattamx/mattamx/assets/107958646/5d13537b-18fd-428e-849c-00cd8b0764a0" align="center" height="50"/>
   </details>
-- **University of Texas at El Paso**
-  - Bachelor of Business Administration - Financial Analysis and Valuation (2010-2013)
+- **University of Texas at El Paso** (2010-2013)
+  - Bachelor of Business Administration - Financial Analysis and Valuation 
     - Spent 2013-2014 back in school to get another Bachelor's in Computer Information Systems *(moved to NYC halfway through that)*
-- **Texas Tech University**
-  - Went to TTU to play football for Mike Leach (pre-med student). Made the team, switched to Computer Science then shortly decided to head back to El Paso (2009-2010)
+- **Texas Tech University** (2009-2010)
+  - Went to TTU to play football for Mike Leach (pre-med student). Made the team, switched to Computer Science then shortly decided to head back to El Paso 
 
 ## Certificates (in progress)
 <kbd><img align="center" width="250px" hspace="0" src="https://github.com/mattamx/mattamx/assets/107958646/39f47b75-0629-4b33-a5a3-8a45c0f56cbe"></kbd>
