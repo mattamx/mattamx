@@ -9,15 +9,6 @@ Having completed my [TripleTen Data Science](https://tripleten.com/data-science/
 
 [About me](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/13953906/About.me.pdf)
 
-<img width="215" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/b55421c4-0a72-4548-b6e7-bf8b1624821c">
-
-<div align="left">
-<img width="690" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/77413d88-08eb-49ea-a3a3-f9322b4c015c" style="margin-bottom: 10px">
-</div> </br>
-
-
-<img width="180" alt="image" src="https://github.com/mattamx/mattamx/assets/107958646/e55b7ee9-ebbf-4087-92ee-55082b83538a" style="margin-bottom: 10px">
-</br>
 <div align="left">
 <kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
 <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=proton style="margin-bottom: 5px;" height="25" /> </kbd>
