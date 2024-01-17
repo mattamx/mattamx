@@ -1,11 +1,9 @@
 ## <div align="left">Hola, soy Daniel Matías <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="35" height="35" >
 #### Transitioning into the world of data where my every day constantly transforms into a fun, deep-dive process of exploration and discovery. Soooo many things to learn!
 
-My portfolio includes various projects focused on solving real-world problems with data and statistical analyses as well as machine learning algorithms, leveraging both query and programming languages, data visualization concepts plus the adaptability to finding solutions via new tools or documentation.
+Recently graduated from [TripleTen’s Data Science Bootcamp](https://tripleten.com/data-science/#first) where I refined my query and programming language skills, implemented machine learning methods (e.g. regression and classification models via scikit-learn) and applied more advanced techniques handling time series, unsupervised learning, natural language processing and computer vision. My portfolio includes 10+ projects solving real-world problems through data and statistical analyses, pairing the results with visualization methods that put it all into perspective.
 
 I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website in the works. 🚧
-
-Having completed my [TripleTen Data Science](https://tripleten.com/data-science/#first) program this past December, I've been putting in the work of building myself a roadmap to be able to achieve my number one goal of 2024, to be able to call myself a full-fledged data scientist and give back to communities through my work.
 
 <kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/13953906/About.me.pdf) </kbd>
 <br/> 
