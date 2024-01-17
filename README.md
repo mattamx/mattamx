@@ -1,7 +1,5 @@
 ## <div align="left">Hola, soy Daniel Matías <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="35" height="35" >
-#### Transitioning into the world of data where my every day constantly transforms into a fun, deep-dive process of exploration and discovery. Sooo many things to learn!
-
-Recently graduated from [TripleTen’s Data Science Bootcamp](https://tripleten.com/data-science/#first) where I refined my query and programming language skills, implemented machine learning methods (e.g. regression and classification models via scikit-learn) and applied more advanced techniques handling time series, unsupervised learning, natural language processing and computer vision. My portfolio includes 10+ projects solving real-world problems through data and statistical analyses, pairing the results with visualization methods that put it all into perspective.
+#### Transitioning into the world of data where my every day constantly transforms into a fun, deep-dive process of exploration and discovery. Sooo many things to learn! Searching for opportunities to leverage what I've learned and marry the experience I've accumulated from my previous roles to make great impact.
 
 I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website in the works. 🚧
 
@@ -21,6 +19,7 @@ I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile phot
 </div>  
   
 ## Portfolio
+
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
 
 ## Skills & Tools
