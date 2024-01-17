@@ -22,7 +22,7 @@ I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile phot
   
 ## Portfolio
 
-<kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
+<kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd> 
 
 ## Skills & Tools
 
