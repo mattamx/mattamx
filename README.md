@@ -2,7 +2,7 @@
 
 Recently graduated from [TripleTen’s Data Science Bootcamp](https://tripleten.com/data-science/#first) where I got to learn tons of new skills and was able to reignite my affection for learning. My portfolio includes 13+ projects solving real-world problems through data and statistical analyses, pairing the results with visualization methods that put it all into perspective.
 
-I’m currently revitalizing my projects, LinkedIn and GitHub (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website in the works. 🚧
+I’m currently revitalizing some of my projects on GitHub, getting used to LinkedIn (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website is in the works. 🚧
 
 <kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/14002939/About.me.pdf) </kbd>
 <br/>
