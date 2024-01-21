@@ -59,7 +59,7 @@ I’m currently revitalizing some of my projects on GitHub, getting used to Link
 ## Work & Education
 ### Work
 - **JPMorgan Chase & Co** (2020-2024)
-  - Associate/Vice President 
+  - Associate / Vice President 
 - **Goldman Sachs** (2015-2020)
   - Associate 
 - **Moody's Investors Service** (2014-2015)
