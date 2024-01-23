@@ -4,9 +4,8 @@ Recently graduated from [TripleTen’s Data Science Bootcamp](https://tripleten.
 
 I’m currently revitalizing some of my projects on GitHub, getting used to LinkedIn (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website is in the works. 🚧
 
-<kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/14002939/About.me.pdf) </kbd>
+<kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/14017344/About.me.pdf) </kbd>
 <br/>
-
 
 <div align="left">
 <kbd> <a href="mailto:mattamontanar@pm.me" target="_blank">
