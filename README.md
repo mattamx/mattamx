@@ -23,6 +23,8 @@ I’m currently revitalizing some of my projects on GitHub, getting used to Link
 
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
 
+<kbd> *Currently Reviewing: Sampling Techniques and Hypothesis Testing* </kbd>
+
 ## Skills & Tools
 
 ###    
