@@ -1,6 +1,6 @@
 ## <div align="left">Hola, soy Daniel Matías <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="35" height="35" >
 
-Recently graduated from [TripleTen’s Data Science Bootcamp](https://tripleten.com/data-science/#first) where I got to learn tons of new skills and was able to reignite my affection for learning. My portfolio includes 13+ projects solving real-world problems through data and statistical analyses, pairing the results with visualization methods that put it all into perspective.
+Recently graduated from [TripleTen’s Data Science Bootcamp](https://tripleten.com/data-science/#first) where I got to learn tons of new skills and was able to reignite my affection for learning. My portfolio includes projects solving real-world problems through data and statistical analyses, pairing the results with visualization methods that put it all into perspective.
 
 I’m currently revitalizing some of my projects on GitHub, getting used to LinkedIn (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website is in the works. 🚧
 
