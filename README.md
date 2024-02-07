@@ -4,7 +4,7 @@ Recently graduated from [TripleTen’s Data Science Bootcamp](https://tripleten.
 
 I’m currently revitalizing some of my projects on GitHub, getting used to LinkedIn (*new profile photo coming soon*) as well as beginning the process of acquiring various certifications. Personal website is in the works. 🚧
 
-Aiming to start a new career that allows me utilize a combination of my four core pillars: 1) Python, 2) ML, 3) SQL and 4) Tableau. Ready and willing to start from the very bottom and work my way up, time flies by when you're having fun.
+Aiming to start a new career that allows me to utilize a combination of my four core pillars: 1) Python, 2) ML, 3) SQL and 4) Tableau. Ready and willing to start from the very bottom and work my way up, time flies by when you're having fun.
 
 <kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/14143900/About.me.pdf) </kbd>
 <br/>
