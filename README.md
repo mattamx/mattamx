@@ -25,7 +25,7 @@ Aiming to jump into a role that allows me to utilize a combination of my four co
 
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
 
-<kbd> *Currently brushing up on: Ensemble Learning and Boosting Methods* </kbd>
+<kbd> *Currently brushing up on: Preprocessing for Machine Learning* </kbd>
 
 ## Skills & Tools
 
