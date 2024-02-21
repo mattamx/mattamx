@@ -110,8 +110,6 @@ I’m currently revitalizing some of my projects on GitHub, getting used to Link
 <summary>SQL</summary>
 <br>
 <img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="350"/>
-  
-[SQL for Data Analysis - UDACITY]
 
 [SQL Associate Certification - DataCamp]
 
@@ -125,7 +123,7 @@ I’m currently revitalizing some of my projects on GitHub, getting used to Link
 <summary>Python</summary>
 <br>
   
-  [Data Scientist Professional Certification - DataCamp]
+[Data Scientist Professional Certification - DataCamp]
   
 </details>
 
@@ -133,10 +131,10 @@ I’m currently revitalizing some of my projects on GitHub, getting used to Link
 <summary>Machine Learning</summary>
 <br>
   
-  [Machine Learning Engineer Learning Path - Google Cloud Skills Boost]
+[Machine Learning Engineer Learning Path - Google Cloud Skills Boost]
   
   
-  [Mathematics for Machine Learning and Data Science Specialization - Coursera]
+[Mathematics for Machine Learning and Data Science Specialization - Coursera]
   
 </details>
 
@@ -144,7 +142,7 @@ I’m currently revitalizing some of my projects on GitHub, getting used to Link
 <summary>Other</summary>
 <br>
   
-  [Google Data Analytics Professional Certificate - Coursera]
+[Google Data Analytics Professional Certificate - Coursera]
   
 </details>
 <br/>  
