@@ -2,7 +2,7 @@
 
 Authentic and intentful, with competencies across exploratory data analysis, data visualization, Python, SQL and Machine Learning. Always on the path to build, optimize or challenge processes, with the capacity to quickly comprehend both technical and non-technical content - and more importantly, a great desire to learn.
 
-<kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/14201882/About.me.pdf) </kbd>
+<kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/14375508/About.me.pdf) </kbd>
 <br/>
 
 <div align="left">
