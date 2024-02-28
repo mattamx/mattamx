@@ -1,6 +1,6 @@
 ## <div align="left">Hola, soy Daniel Matías <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="35" height="35" >
 
-Authentic and intentful, with competencies across exploratory data analysis, data visualization, Python, SQL and Machine Learning. Always on the path to build, optimize or challenge processes, with the capacity to quickly comprehend both technical and non-technical content - and more importantly, a great desire to learn.
+Authentic and intentful, always on the path to build, optimize or challenge processes, with the capacity to quickly comprehend both technical and non-technical content - and more importantly, a great desire to learn.
 
 <kbd> [<img src="https://github.com/mattamx/mattamx/assets/107958646/03599d00-64a7-45c8-90c9-84edbef9bd88">](https://docs.google.com/viewer?url=https://github.com/mattamx/mattamx/files/14385654/About.me.pdf) </kbd>
 <br/>
