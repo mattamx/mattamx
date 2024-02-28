@@ -21,7 +21,7 @@ Authentic and intentful, always on the path to build, optimize or challenge proc
 
 <kbd> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mattamx&repo=Projects&cache_seconds=86400&theme=ambient_gradient" >](https://github.com/mattamx/Projects) </kbd>
 
-<kbd> *Currently brushing up on: SQL & Git* </kbd>
+<kbd> *Currently brushing up on: Python Packages* </kbd>
 
 ## Skills & Tools
 
