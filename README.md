@@ -109,11 +109,11 @@ Authentic and intentful, always on the path to build, optimize or challenge proc
 <br>
 <img src="https://github.com/mattamx/mattamx/assets/107958646/0ff08576-e332-4b93-bba3-7d2e3ec81731" align="center" height="350"/>
 
-[SQL Associate Certification - DataCamp]
+[SQL Associate Certificate - DataCamp]
 
 [Microsoft Certified: Azure Data Fundamentals]
 
-[IBM Data Engineering Professional Certificate - Coursera]
+[Google Data Analytics Professional Certificate - Coursera]
 
 </details>
 
@@ -134,10 +134,12 @@ Authentic and intentful, always on the path to build, optimize or challenge proc
 </details>
 
 <details close>
-<summary>Other</summary>
+<summary>Data Engineering</summary>
 <br>
-  
-[Google Data Analytics Professional Certificate - Coursera]
+
+[IBM Data Engineering Professional Certificate - Coursera]
+
+[Data Engineering Associate Certificate - DataCamp]
   
 </details>
 <br/>  
