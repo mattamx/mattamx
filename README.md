@@ -66,7 +66,7 @@ Authentic and intentful, always on the path to build, optimize or challenge proc
 
 ### Education
 - **TripleTen Data Science Program** (2023)
-  - Certificate received December 2023
+
   #### Course Structure:
   <details close>
   <summary>Module 1: Python and Software Engineering for Data Science</summary>
