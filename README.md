@@ -120,8 +120,8 @@ Authentic and intentful, always on the path to build, optimize or challenge proc
 <details close>
 <summary>Python</summary>
 <br>
-  
-[Data Scientist Professional Certification - DataCamp]
+
+<img src="https://github.com/mattamx/mattamx/files/14442373/certificatefinal.pdf" align="center" height="350"/>
   
 </details>
 
@@ -130,10 +130,7 @@ Authentic and intentful, always on the path to build, optimize or challenge proc
 <br>
   
 [Machine Learning Engineer Learning Path - Google Cloud Skills Boost]
-  
-  
-[Mathematics for Machine Learning and Data Science Specialization - Coursera]
-  
+    
 </details>
 
 <details close>
